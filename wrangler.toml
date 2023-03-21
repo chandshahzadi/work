@@ -1,0 +1,11 @@
+name = "work"
+main = "src/index.ts"
+compatibility_date = "2023-01-19"
+
+d1_databases =[
+    {binding = "DB",database_name = "worker", database_id = "0945d653-e7a4-4057-bd81-be12bac89389", preview_database_id="0945d653-e7a4-4057-bd81-be12bac89389"}
+]
+kv_namespaces = [
+    { binding = "KV", id = "5476463018d54230a29a3337f6c0aa14", preview_id= "5476463018d54230a29a3337f6c0aa14"}
+]
+
